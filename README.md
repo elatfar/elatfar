@@ -1,4 +1,4 @@
-### Hi there.. i'm elatfar stand for El Atmam Faruq 👋
+### Hi there.. i'm elatfar stand for El Atmam Faruq
 
 - 🔭 I’m currently working on machine learning model
 - 🌱 I’m currently learning automatic speech recognition
